@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 👋, I'm Ryan
+![](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/ff766ce9fe219d497c44a81ce6dbb6932776003c/data/octocat/spidertocat.png)
 
-<!--
-**rygeorge/rygeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Thank you for checking out my profile!
+  
+#### Education
+- 🎒 Third Year **Economics** & **Quantiative Political Science** Student at McGill University
 
-Here are some ideas to get you started:
+#### Professional Experience
+- ✅ Data Science Intern @ [Bell Canada](https://www.bell.ca/) (Winter 2023 + Summer 2023)
+- ✅ Data Science Intern @ [Ontario Ministry of Agriculture, Food, and Rural Affairs](https://www.ontario.ca/page/ministry-agriculture-food-and-rural-affairs) (Summer 2022)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About Me
+- 📈 Aspiring Data Scientist
+- 🎬 Movie buff 
+- 🎨 Creative thinker and problem solver
+
+#### Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/ryan-george1/)
+- [Github](https://github.com/rygeorge)
+
+Kind regards,
+
+**Ryan**  
+
