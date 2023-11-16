@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Ryan
-![](https://komarev.com/ghpvc/?username=rygeorge&color=red)
 ![](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/ff766ce9fe219d497c44a81ce6dbb6932776003c/data/octocat/spidertocat.png)
 
 ### Thank you for checking out my profile!
@@ -16,11 +15,4 @@
 - 🎬 Movie buff 
 - 🎨 Creative thinker and problem solver
 
-#### Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/ryan-george1/)
-- [Github](https://github.com/rygeorge)
-
-Kind regards,
-
-**Ryan**  
-
+![](https://komarev.com/ghpvc/?username=rygeorge&color=red) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinyash/)](https://www.linkedin.com/in/ryan-george1/) 
