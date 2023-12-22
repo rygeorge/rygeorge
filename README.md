@@ -4,7 +4,7 @@
 ### Thank you for checking out my profile!
   
 #### Education
-- 🎒 Third Year **Economics** & **Quantiative Political Science** Student at McGill University
+- 🎒 Third Year **Economics** student at McGill University
 
 #### Professional Experience
 - ✅ Data Science Intern @ [Bell Canada](https://www.bell.ca/) (Winter 2023 + Summer 2023)
