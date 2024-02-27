@@ -9,6 +9,7 @@
 #### Professional Experience
 - ✅ Data Science Intern @ [Bell Canada](https://www.bell.ca/) (Winter 2023 + Summer 2023)
 - ✅ Data Science Intern @ [Ontario Ministry of Agriculture, Food, and Rural Affairs](https://www.ontario.ca/page/ministry-agriculture-food-and-rural-affairs) (Summer 2022)
+- Incoming SWE/DS Intern @ Ripple
 
 #### About Me
 - 📈 Aspiring Data Scientist
