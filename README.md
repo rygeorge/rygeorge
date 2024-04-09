@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Ryan
-![](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/ff766ce9fe219d497c44a81ce6dbb6932776003c/data/octocat/spidertocat.png)
 
 ### Thank you for checking out my profile!
   
